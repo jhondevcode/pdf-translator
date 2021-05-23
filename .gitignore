@@ -1,0 +1,13 @@
+# vscode files
+/.vscode
+
+# Pycharm files
+/.idea
+
+# output files
+*.pyc
+*.exe
+*.out
+
+# ouput directory
+/out
