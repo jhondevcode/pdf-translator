@@ -11,3 +11,12 @@
 
 # ouput directory
 /out
+
+# Virtual environment files
+pyvenv.cfg
+# linux
+/bin
+/lib
+# windows
+/Lib
+/Scripts
