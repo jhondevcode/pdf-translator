@@ -6,6 +6,9 @@ authors = ["Jhon Fernandez <jhondev.code@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+PyPDF4 = "^1.27.0"
+colorama = "^0.4.4"
+deep-translator = "^1.4.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
